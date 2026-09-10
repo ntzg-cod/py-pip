@@ -3,3 +3,5 @@ def suma(a , b):
 
 
 print(suma(7 , 2))
+
+print("skinny bitch")
